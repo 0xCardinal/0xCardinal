@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Ashwin aka 0xCardinal
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Cloud Security
-- 💞️ I’m looking to collaborate on content creation for helping others learn
-- 📫 You can find me everywhere by username 0xCardinal
+<!-- <img src="https://media.giphy.com/media/f8tzs6znwcZGHv1XvT/giphy.gif?cid=ecf05e47kfsojtv3evf866bq9pkqu30qebyuiwne9qxc7ph5&rid=giphy.gif&ct=s" height="80px"> -->
 
-<!---
-0xCardinal/0xCardinal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m **Ashwin**!<img src="https://media.giphy.com/media/f8tzs6znwcZGHv1XvT/giphy.gif?cid=ecf05e47kfsojtv3evf866bq9pkqu30qebyuiwne9qxc7ph5&rid=giphy.gif&ct=s" height="25px">
+
+- 🐛 Working on different aspects of Information Security
+- 🚀 Screwing and Fixing Stuff in **Web**, **Cloud** & **DevSecOps**
+- 💬 Reach me out at **[ashwin@0xcardinal.com](mailto:ashwin@0xcardinal.com)**
+
+
+
