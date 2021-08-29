@@ -1,4 +1,4 @@
-## 👋 𝙷𝚒, 𝙸’𝚖 𝙰𝚜𝚑𝚠𝚒𝚗!
+## 👋 ʜɪ, ɪ’ᴍ ᴀꜱʜᴡɪɴ!
 ###### _aka [0xCardinal](https://0xcardinal.com/)_
 
 - 🐛 Working on different aspects of Information Security
