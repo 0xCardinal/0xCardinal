@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Ashwin! 
-###### _aka [0xCardinal](https://0xcardinal.com)_
+###### _aka <a href="https://0xcardinal.com/" target="_blank">0xCardinal</a>_
 
 - 🐛 Working on different aspects of Information Security
 - 🚀 Screwing and Fixing Stuff in **`Web`**, **`Cloud`** & **`DevSecOps`**
